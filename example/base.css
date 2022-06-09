@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+  background-color: #fff;
+}
+
+
+#root {
+  padding: 50px;
+  width: 150vw;
+}
+
+.div-wrap {
+  width: 110vw;
+  margin-right: 200px;
+  padding: 25px;
+  background-color: darksalmon;
+  box-sizing: border-box;
+}
+
+.div-item {
+  margin: 25px 0;
+  background-color: burlywood;
+  height: 100px;
+  line-height: 100px;
+  font-size: 38px;
+  text-align: center;
+  border-radius: 10px;
+}
