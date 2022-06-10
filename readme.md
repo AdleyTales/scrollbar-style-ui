@@ -7,3 +7,7 @@ Windows浏览器上的scrollbar不如macOS浏览器上的默认滚动条好看�
 ## 预览
 
 ![](./images/demo.png)
+
+## 预览 - 去除滚动条轨道边框样式的，只保留滚动滑块
+
+![](./images/demo2.png)
